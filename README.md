@@ -29,7 +29,8 @@ Compilation of outputs and examples covering the fundamentals and advanced conce
 - Inception Model
 
 ### Ensemble Methods
-- Forest Methods (e.g., Random Forest, Extra Trees)
+- Random Forest
+- Boosted Trees
 
 ## Technologies Used
 
