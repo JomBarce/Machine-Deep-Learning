@@ -24,7 +24,9 @@ Compilation of outputs and examples covering the fundamentals and advanced conce
 - Autoencoders
 
 ### Deep Learning Architectures
+- Artifical Neural Networks (ANN)
 - Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
 - UNet
 - Inception Model
 
