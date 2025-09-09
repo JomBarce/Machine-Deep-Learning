@@ -11,6 +11,7 @@ Compilation of outputs and examples covering the fundamentals and advanced conce
 - Support Vector Machines (SVM)
 - Multilayer Perceptrons
 - Normalization and Standardization
+- Non-Linear Transformations, Categorical Encoding and Discretization
 
 ### Model Evaluation & Optimization
 - Model Selection and Hyperparameter Tuning
