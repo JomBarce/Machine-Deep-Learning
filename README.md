@@ -11,12 +11,14 @@ Compilation of outputs and examples covering the fundamentals and advanced conce
 - Support Vector Machines (SVM)
 - Multilayer Perceptrons
 - Normalization and Standardization
+- Linear Discriminant Analysis (LDA)
 - Non-Linear Transformations, Categorical Encoding and Discretization
 
 ### Model Evaluation & Optimization
 - Model Selection and Hyperparameter Tuning
 - Feature Selection
 - Sequential Backward Selection (SBS) and Logistic Regression
+- Performance Metrics
 - SHAP (SHapley Additive exPlanations)
 - LIME (Local Interpretable Model-agnostic Explanations)
 
